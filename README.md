@@ -7,7 +7,7 @@ This app uses AES-128 GCM to prevent anyone but you from accessing your notes.<b
 [![Version](https://img.shields.io/badge/Version-v0.1.0-blue.svg)]()
 [![Python](https://img.shields.io/badge/Python-v3-blue.svg)]()
 [![Discord](https://img.shields.io/badge/Chat-Server-brightgreen.svg)](https://discord.gg/SMUaWmn)
-[![Donate](https://img.shields.io/badge/PayPal-Donate-orange.svg)](https://www.paypal.me/Msheikh03)
+
 <br><br>
 
 <img src="screenshots/login.PNG"/>
