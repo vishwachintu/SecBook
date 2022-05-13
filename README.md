@@ -1,7 +1,6 @@
 # Notebook
 
 An app you can trust your secrets with.<br>
-Try it out: https://securenotebook.pythonanywhere.com/<br>
 This app uses AES-128 GCM to prevent anyone but you from accessing your notes.<br>
 
 [![Version](https://img.shields.io/badge/Version-v0.1.0-blue.svg)]()
